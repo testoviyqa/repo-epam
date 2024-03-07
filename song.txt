@@ -9,3 +9,4 @@ Using the github's web interface, add the second half of the lyrics and make a c
 Make a pull in the local repository and make sure that the commit you created on github is pulled up and you have all the lyrics.
 
 1
+2
